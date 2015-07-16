@@ -1,0 +1,27 @@
+<html>
+<head>
+</head
+<body onload="game.init()">
+    <div class="contenedor">
+        <div class="izquierda">
+            </a>
+            <ul class="lista">
+                <li class="titulo">CONTROLES:</li>
+                <li class="izquierda">izquierda</li>
+                <li class="derecha">derecha</li>
+                <li class="espacio">disparar</li>
+            </ul>
+            <ul class="lista">
+                <li class="titulo">PRUEBALO CON UNO DE ESTOS NAVEGADORES:</li>
+                <li class="firefox">Mozilla Firefox 11</li>
+                <li class="chrome">Google Chrome </li>
+                <li class="safari">Safari 5.1</li>
+            </ul>
+        </div>
+
+    
+    <a href="index.html)"><img src="images/boton.jpg" height="100" width="200" alt="Botón" <cente> ATRAS </center</a> 
+   
+
+</body>
+</html>
